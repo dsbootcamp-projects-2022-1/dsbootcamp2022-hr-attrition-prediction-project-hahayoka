@@ -21,3 +21,4 @@ threadpoolctl==3.1.0
 typing-extensions==4.1.1
 uvicorn==0.17.6
 zipp==3.7.0
+lightgbm==3.2.1
