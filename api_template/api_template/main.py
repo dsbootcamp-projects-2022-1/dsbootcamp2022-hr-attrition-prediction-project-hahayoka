@@ -3,8 +3,8 @@ from ml import predict
 from preprocess import preprocess
 from sample import Sample
 import uvicorn
-import nest_asyncio
-nest_asyncio.apply()
+#import nest_asyncio
+#nest_asyncio.apply()
 
 
 app = FastAPI()
