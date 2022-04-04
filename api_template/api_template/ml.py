@@ -1,6 +1,5 @@
 import pickle
 
-# TODO
 model_path = 'models/lgbm_tuned.pkl'
 
 
